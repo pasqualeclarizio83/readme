@@ -151,13 +151,13 @@ print(a)
 ### E se volessimo inserire un link?
 
 ```
-[Pagina di Pasquale](https://www.sitomio.it/about_me)
+[Pagina di Pasquale](https://github.com/pasqualeclarizio83/about_me)
 
 ```
 
 #### Risultato?
 
-[Pagina di Pasquale](https://www.sitomio.it/about_me)
+[Pagina di Pasquale](https://github.com/pasqualeclarizio83/about_me)
 
 #### Immagine
 #### Dopo aver caricato un'immagine!
