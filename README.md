@@ -163,9 +163,9 @@ print(a)
 #### Dopo aver caricato un'immagine!
 
 ```
-[Immagine](https://github.com/pasqualeclarizio83/readme/A.jpg)
+[Immagine](https://github.com/pasqualeclarizio83/readme/blob/master/A.jpg)
 
 ```
 #### Sei sicuro di aver caricato un'immagine?
 
-[Immagine](https://github.com/pasqualeclarizio83/readme/A.jpg)
+[Immagine](https://github.com/pasqualeclarizio83/readme/blob/master/A.jpg)
