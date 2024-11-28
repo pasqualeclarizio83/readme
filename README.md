@@ -108,9 +108,9 @@ Il testo lo puoi scrivere in questo modo, senza mettere alcun simbolo davanti
 
 #### Come si scrive Ciao Mondo in Python (la mia descrizione)
 
-```
-
 ```python
 print ("Ciao Mondo in Python")
+
+```
 
 ```
