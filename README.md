@@ -42,3 +42,23 @@
 
 # Ciao Mondo
 ## La mia descrizione è la seguente
+
+#### Pensate che "Ciao Mondo" e "La mia descrizione è la seguente" sia troppo grande?
+
+```
+# Ciao Mondo
+
+## La mia descrizione è la seguente
+
+```
+
+#### Questo dipende dal simbolo
+
+```
+#
+
+# Carattere grande
+## Carattere meno grande
+### Carattere meno meno grande e così via
+
+```
