@@ -122,7 +122,7 @@ print ("Ciao Mondo in Python")
 #### print("ciao mondo")
 #### ```
 
-#### Risoltato? Ho copiato e incollato quello scritto in precedenza.
+#### Risultato? Ho copiato e incollato quello scritto in precedenza.
 #### Risultato
 
 ```python
@@ -147,3 +147,14 @@ print(a)
 #### a = 10
 #### print(a)
 #### ```
+
+### E se volessimo inserire un link?
+
+```
+[Pagina di Pasquale](www.sitomio.it/about_me)
+
+```
+
+#### Risultato?
+
+[Pagina di Pasquale](www.sitomio.it/about_me)
