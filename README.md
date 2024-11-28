@@ -151,10 +151,10 @@ print(a)
 ### E se volessimo inserire un link?
 
 ```
-[Pagina di Pasquale](www.sitomio.it/about_me)
+[Pagina di Pasquale](https://www.sitomio.it/about_me)
 
 ```
 
 #### Risultato?
 
-[Pagina di Pasquale](www.sitomio.it/about_me)
+[Pagina di Pasquale](https://www.sitomio.it/about_me)
