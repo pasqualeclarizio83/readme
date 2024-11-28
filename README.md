@@ -112,3 +112,12 @@ Il testo lo puoi scrivere in questo modo, senza mettere alcun simbolo davanti
 print ("Ciao Mondo in Python")
 
 ```
+
+#### Spero che la parte del codice sia comprensibile ( ``` )
+#### E le tre virgolette per la chiusura (  ``` )
+
+### QUINDI
+
+#### Apriamo con:     ```
+#### 
+#### Chiudiamo con:    ```
