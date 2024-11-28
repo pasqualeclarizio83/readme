@@ -158,3 +158,14 @@ print(a)
 #### Risultato?
 
 [Pagina di Pasquale](https://www.sitomio.it/about_me)
+
+#### Immagine
+#### Dopo aver caricato un'immagine!
+
+```
+[Immagine](https://github.com/pasqualeclarizio83/readme/A.jpg)
+
+```
+#### Sei sicuro di aver caricato un'immagine?
+
+[Immagine](https://github.com/pasqualeclarizio83/readme/A.jpg)
