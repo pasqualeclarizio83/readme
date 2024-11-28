@@ -112,5 +112,3 @@ Il testo lo puoi scrivere in questo modo, senza mettere alcun simbolo davanti
 print ("Ciao Mondo in Python")
 
 ```
-
-```
