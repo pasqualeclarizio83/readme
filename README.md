@@ -62,3 +62,39 @@
 ### Carattere meno meno grande e così via
 
 ```
+
+#### infatti possiamo definire, questo:
+
+```
+# Titolo
+## Header1
+### Header2
+#### Header3
+
+```
+
+#### con la seguente risposta:
+
+# Titolo
+## Descrizione1
+### Sottodescrizione
+#### Sotto descrizione della precedente
+
+### Mentre il Testo come lo scrivo?
+
+```
+Il testo lo puoi scrivere in questo modo!
+
+```
+
+### RICAPITOLANDO
+
+```
+# Titolo
+## Descrizione
+### Sotto Descrizione
+#### Sotto descrizione più piccola
+
+Il testo lo puoi scrivere in questo modo, senza mettere alcun simbolo davanti
+
+```
