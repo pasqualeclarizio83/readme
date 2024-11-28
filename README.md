@@ -67,9 +67,9 @@
 
 ```
 # Titolo
-## Header1
-### Header2
-#### Header3
+## Descrizione1
+### Sottodescrizione
+#### Sotto descrizione della precedente
 
 ```
 
@@ -96,5 +96,21 @@ Il testo lo puoi scrivere in questo modo!
 #### Sotto descrizione più piccola
 
 Il testo lo puoi scrivere in questo modo, senza mettere alcun simbolo davanti
+
+```
+
+### Facciamo un esempio Concreto
+
+#### Voglio scrivere: titolo, descrizione e codice in Python
+
+```
+### Ciao Mondo in Python (titolo)
+
+#### Come si scrive Ciao Mondo in Python (la mia descrizione)
+
+```
+
+```python
+print ("Ciao Mondo in Python")
 
 ```
