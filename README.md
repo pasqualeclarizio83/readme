@@ -118,6 +118,4 @@ print ("Ciao Mondo in Python")
 
 ### QUINDI
 
-#### Apriamo con:     ```
-#### 
-#### Chiudiamo con:    ```
+#### Apriamo con:     ```python Ciao Mondo ```
