@@ -121,3 +121,29 @@ print ("Ciao Mondo in Python")
 #### ```python
 #### print("ciao mondo")
 #### ```
+
+#### Risoltato? Ho copiato e incollato quello scritto in precedenza.
+#### Risultato
+
+```python
+print("ciao mondo")
+```
+
+#### Per essere più precisi
+
+```
+# Titolo
+## Header
+### Header2
+#### 
+
+```python
+a = 10
+print(a)
+
+```
+
+#### ```python
+#### a = 10
+#### print(a)
+#### ```
