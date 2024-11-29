@@ -174,12 +174,12 @@ print(a)
 #### Disegnare una tabella?
 
 ```
-Riga 1: |Titolo 1 |Titolo 2 |Titolo 3 |
-Riga 2: |------------ |------------ |------------ |
-Riga 3: |testo 1 |testo 2 |testo 3 |
+|Titolo 1 |Titolo 2 |Titolo 3 |
+|------------ |------------ |------------ |
+|testo 1 |testo 2 |testo 3 |
 
 ```
 
-Riga 1: |Titolo 1 |Titolo 2 |Titolo 3 |
-Riga 2: |------------ |------------ |------------ |
-Riga 3: |testo 1 |testo 2 |testo 3 |
+|Titolo 1 |Titolo 2 |Titolo 3 |
+|------------ |------------ |------------ |
+|testo 1 |testo 2 |testo 3 |
