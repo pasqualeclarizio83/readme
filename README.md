@@ -169,3 +169,17 @@ print(a)
 #### Sei sicuro di aver caricato un'immagine?
 
 [Immagine](https://github.com/pasqualeclarizio83/readme/blob/master/A.jpg)
+
+
+#### Disegnare una tabella?
+
+```
+Riga 1: |Titolo 1 |Titolo 2 |Titolo 3 |
+Riga 2: |------------ |------------ |------------ |
+Riga 3: |testo 1 |testo 2 |testo 3 |
+
+```
+
+Riga 1: |Titolo 1 |Titolo 2 |Titolo 3 |
+Riga 2: |------------ |------------ |------------ |
+Riga 3: |testo 1 |testo 2 |testo 3 |
